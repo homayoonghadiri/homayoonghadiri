@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![homayoonghadiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=homayoonghadiri&hide=stars,contribs&show=discussions_started,discussions_answered,prs_merged_percentage,prs_merged&show_icons=true&theme=cobalt&icon_color=eeeeee&border_radius=20&text_bold=false&layout-compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=homayoonghadiri&repo=html-template&theme=cobalt&border_radius=20&icon_color=eeeeee)](https://github.com/homayoonghadiri/html-template)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homayoonghadiri&theme=cobalt&border_radius=20&icon_color=eeeeee&layout=donut)](https://github.com/homayoonghadiri/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=homayoonghadiri&repo=html-template&theme=cobalt&border_radius=20&icon_color=eeeeee)](https://github.com/homayoonghadiri/html-template)
