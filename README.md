@@ -1,5 +1,4 @@
 ## Hi everyone 👋
-### I'm Homayoon Ghadiri, web developer and WordPress specialist.
 
 I am a web designer and WordPress specialist with over 2 years of continuous experience in designing and implementing responsive, optimized, and practical websites.
 I hold a Bachelor's degree in Information Technology with a specialization in Web Design from the Informatics Institute of Iran.
